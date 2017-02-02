@@ -1,0 +1,12 @@
+<div class="overlay">
+    <div class="card">
+        <div class="card-container">
+            <h4>{{$ctrl.photo.title}}</h4>
+            <img ng-src="{{$ctrl.photo.url}}" />
+            <textarea class="form-control" ng-model="$ctrl.photo.description" ng-change="$ctrl.saveDescription()" placeholder="Your description will be saved as you type..."></textarea>
+            <div class="button-gutter">
+                <button class="btn btn-default" ui-sref="main.grid">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
