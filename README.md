@@ -1,4 +1,4 @@
-# Colorful Squares - code exercise
+# Colorful Squares
 
 ## Build & development
 
