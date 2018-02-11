@@ -1,4 +1,4 @@
-# Colorful Squares
+# Colorful Squares (angular JS)
 
 ## Build & development
 
